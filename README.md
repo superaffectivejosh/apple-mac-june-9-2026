@@ -14,4 +14,4 @@
 
 - Phone
 
-- LinkedIn DM API, use {{ }} API
+- LinkedIn DM API, use OpenAI Cloud Connector 2027

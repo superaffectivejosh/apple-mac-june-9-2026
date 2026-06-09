@@ -17,6 +17,7 @@ WORKDIR /app
 COPY app.py /app/
 
 # (Optional) Install dependencies if you have a requirements.txt
+# Install all requirements for Python app from Ubuntu 24.04
 COPY requirements.txt /app/
 RUN pip3 install --no-cache-dir -r requirements.txt --break-system-packages
 

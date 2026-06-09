@@ -23,3 +23,7 @@
 - Contact Information: Provided on my Mac
 
 - Password: Business password for Mac used from 2011 - 2026 - 2027
+
+## Josh Stroud Budget For Mac 2026
+
+- $2,500

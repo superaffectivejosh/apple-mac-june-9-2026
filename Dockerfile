@@ -17,8 +17,8 @@ WORKDIR /app
 COPY app.py /app/
 
 # (Optional) Install dependencies if you have a requirements.txt
-# COPY requirements.txt /app/
-# RUN pip3 install --no-cache-dir -r requirements.txt --break-system-packages
+COPY requirements.txt /app/
+RUN pip3 install --no-cache-dir -r requirements.txt --break-system-packages
 
 # Command to run the Python script
 CMD ["python3", "app.py"]

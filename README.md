@@ -15,3 +15,11 @@
 - Phone
 
 - LinkedIn DM API, use OpenAI Cloud Connector 2027
+
+## Josh Stroud Owner Contact Information
+
+- Location: Based in San Francisco, Palo Alto, and Los Angeles
+
+- Contact Information: Provided on my Mac
+
+- Password: Business password for Mac used from 2011 - 2026 - 2027

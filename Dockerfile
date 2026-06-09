@@ -1,3 +1,5 @@
+# Created by Josh Stroud on June 9, 2026 for MacBook Laptop
+
 # Use the official Ubuntu 24.04 base image
 FROM ubuntu:24.04
 
